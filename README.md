@@ -1,24 +1,11 @@
 # 🐾 VETTsafe – Sistema de Gestión Veterinaria
 
-## 📑 Índice
-
-- [📝 Descripción del Proyecto](#-descripción-del-proyecto)
-- [⚙️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
-- [🚀 Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
-- [📦 Requisitos del Proyecto (`requirements.txt`)](#-requisitos-del-proyecto-requirementstxt)
-- [🎨 Diseño de Interfaz](#-diseño-de-interfaz)
-- [📅 Gestión y Planificación](#-gestión-y-planificación)
-- [📚 Metodología de Desarrollo](#-metodología-de-desarrollo)
-- [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
-- [📈 Resumen Semanal de Avances](#-resumen-semanal-de-avances)
-- [📂 Vinculación con Otras Asignaturas](#-vinculación-con-otras-asignaturas)
-
 ## 📝 Descripción del Proyecto
 
 **VETTsafe** es una aplicación desarrollada en Python para la gestión eficiente de información de mascotas y sus consultas médicas en clínicas veterinarias. Permite registrar, editar y listar datos de clientes y mascotas mediante operaciones CRUD, facilitando la organización interna y el acceso rápido a los registros.
 
 > Este proyecto está disponible bajo la [Licencia MIT](https://github.com/francisxo999/Proyecto-Semestral/blob/main/LICENSE).
-
+> 
 ---
 
 ## ⚙️ Tecnologías Utilizadas
@@ -65,12 +52,8 @@ charset-normalizer==3.4.2
 holidays==0.75
 idna==3.10
 pip==25.1.1
-PySide6==6.9.1
-PySide6-Addons==6.9.1
-PySide6-Essentials==6.9.1
 python-dateutil==2.9.0.post0
 requests==2.32.4
-shiboken6==6.9.1
 six==1.17.0
 urllib3==2.5.0
 ```
@@ -150,7 +133,7 @@ Se utilizó **Scrum** como marco ágil, con sprints semanales, planificación po
   Se actualizó la Carta Gantt incluyendo nuevos sprints a partir del sprint 3. Se añadieron nuevas tareas en Jira, asignándolas a los integrantes del equipo. En el archivo README se incorporaron los enlaces a Jira y Figma en la sección de metodología de desarrollo. También se realizó una investigación sobre APIs para evaluar su posible integración en el sistema.
 
 - **Semana 12:**
-Durante el periodo de evaluación, se realizaron cambios importantes en la base de datos para mejorar su estructura y rendimiento. También se ajustaron elementos de la interfaz para hacerla más intuitiva. Además, se integró la API pública [Nager.Date](https://date.nager.at/) para obtener información sobre feriados, lo que permitió explorar nuevas funcionalidades en el sistema.
+   Se realizaron cambios importantes en la base de datos para mejorar su estructura y rendimiento. También se ajustaron elementos de la interfaz para hacerla más intuitiva. Además, se integró la API pública [Nager.Date](https://date.nager.at/) para obtener información sobre feriados, lo que permitió explorar nuevas funcionalidades en el sistema.
 
 *Actualmente nos encontramos en la fase final de desarrollo, enfocados en pruebas y mejoras antes de la entrega final.*
 
@@ -162,5 +145,3 @@ Durante el periodo de evaluación, se realizaron cambios importantes en la base 
 - **Ingeniería de Software**
 - **Desarrollo Fullstack**
 - **Fundamentos de Programación**
-
----
