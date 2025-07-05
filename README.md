@@ -12,7 +12,6 @@
 - [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
 - [📈 Resumen Semanal de Avances](#-resumen-semanal-de-avances)
 - [📂 Vinculación con Otras Asignaturas](#-vinculación-con-otras-asignaturas)
-- [🧩 Próximos Pasos (posdesarrollo)](#-próximos-pasos-posdesarrollo)
 
 ## 📝 Descripción del Proyecto
 
@@ -117,21 +116,40 @@ Se utilizó **Scrum** como marco ágil, con sprints semanales, planificación po
 
 ## 📈 Resumen Semanal de Avances
 
-| Semana | Avances clave |
-|--------|---------------|
-| 1      | Idea definida, repositorio y licencia creados |
-| 2      | Estructura inicial en Python y modelo de base de datos |
-| 3      | Mejoras en interfaz tras retroalimentación |
-| 4      | Organización de carpetas y entorno |
-| 5      | Programación inicial en VSCode, conexión DB |
-| 6      | Implementación de ramas, creación de Jira y Gantt |
-| 7      | Organización del repositorio, documentación inicial |
-| 8      | Desarrollo de entidades `Cliente` y `Mascota` con CRUD |
-| 9      | Revisión del docente y ajustes según feedback |
-| 10     | Reorganización del repositorio, nuevas tareas asignadas |
-| 11     | Actualización de Carta Gantt, investigación sobre APIs |
+- **Semana 1:**  
+  Se definió la idea del sistema, se creó la licencia del proyecto y se planificaron las tareas iniciales.
 
-> Actualmente nos encontramos en la **fase final**, enfocándonos en pruebas y mejoras antes de la entrega.
+- **Semana 2:**  
+  Se desarrolló la estructura base en Python y el prototipo de la base de datos. También se diseñaron las primeras interfaces de usuario.
+
+- **Semana 3:**  
+  Se mejoraron las interfaces con base en la retroalimentación recibida, reorganizando las pantallas y optimizando la experiencia del usuario.
+
+- **Semana 4:**  
+  Se revisaron los avances gráficos y se organizó el entorno de trabajo, reestructurando carpetas y archivos.
+
+- **Semana 5:**  
+  Se inició la programación en Visual Studio Code, se configuraron las extensiones necesarias y se comenzó la implementación de la base de datos.
+
+- **Semana 6:**  
+  Se implementaron ramas en GitHub para permitir el trabajo independiente del equipo. Además, se creó un tablero en [Jira](https://vettsafe.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNjFhMWQzOTVmZDQ3NDUxYTlkZjlkMmRlMjdkMWU4ZWIiLCJwIjoiaiJ9) y una [Carta Gantt](https://docs.google.com/spreadsheets/d/1c3QkWdsqGV5yM9EpvRcGAK7bTbtyMJmF/edit?usp=sharing&ouid=117040996252373578955&rtpof=true&sd=true) para la planificación del proyecto.
+
+- **Semana 7:**  
+  Se organizaron y actualizaron los archivos del repositorio, incluyendo capturas y documentos relacionados con la base de datos, Jira y la Carta Gantt, con el fin de mejorar la claridad y el seguimiento del proyecto.
+
+- **Semana 8:**  
+  Se avanzó en el desarrollo de la base de datos en SQL y el código en Visual Studio Code, logrando la conexión entre ambos e implementando las primeras dos entidades: CLIENTE y MASCOTA, permitiendo agregar datos de forma sencilla y efectiva.
+
+- **Semana 9:**  
+  Recibimos retroalimentación del profesor sobre los avances, tanto en el repositorio como en el tablero de Jira y el código de Python conectado con la base de datos. Nos entregó recomendaciones y destacó los aspectos positivos del trabajo realizado hasta el momento.
+
+- **Semana 10:**  
+  Se reorganizaron las carpetas del repositorio para mantener un orden lógico y facilitar la navegación entre semanas. Además, se agregaron nuevas tareas en el tablero de Jira, asignando responsabilidades específicas a cada integrante del equipo.
+
+- **Semana 11:**  
+  Se actualizó la Carta Gantt incluyendo nuevos sprints a partir del sprint 3. Se añadieron nuevas tareas en Jira, asignándolas a los integrantes del equipo. En el archivo README se incorporaron los enlaces a Jira y Figma en la sección de metodología de desarrollo. También se realizó una investigación sobre APIs para evaluar su posible integración en el sistema.
+
+*Actualmente nos encontramos en la fase final de desarrollo, enfocados en pruebas y mejoras antes de la entrega final.*
 
 ---
 
@@ -143,14 +161,3 @@ Se utilizó **Scrum** como marco ágil, con sprints semanales, planificación po
 - **Fundamentos de Programación**
 
 ---
-
-## 🧩 Próximos Pasos (posdesarrollo)
-
-- Integración con APIs externas (ej. datos de vacunas o razas)
-- Mejora de interfaz gráfica (PySide6 o Tkinter)
-- Generación de reportes en PDF o Excel
-
----
-
-¡Gracias por visitar el repositorio!  
-Cualquier sugerencia o aporte es bienvenido en la sección de issues o pull requests.
