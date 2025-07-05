@@ -149,6 +149,9 @@ Se utilizó **Scrum** como marco ágil, con sprints semanales, planificación po
 - **Semana 11:**  
   Se actualizó la Carta Gantt incluyendo nuevos sprints a partir del sprint 3. Se añadieron nuevas tareas en Jira, asignándolas a los integrantes del equipo. En el archivo README se incorporaron los enlaces a Jira y Figma en la sección de metodología de desarrollo. También se realizó una investigación sobre APIs para evaluar su posible integración en el sistema.
 
+- **Semana 12:**
+Durante el periodo de evaluación, se realizaron cambios importantes en la base de datos para mejorar su estructura y rendimiento. También se ajustaron elementos de la interfaz para hacerla más intuitiva. Además, se integró la API pública [Nager.Date](https://date.nager.at/) para obtener información sobre feriados, lo que permitió explorar nuevas funcionalidades en el sistema.
+
 *Actualmente nos encontramos en la fase final de desarrollo, enfocados en pruebas y mejoras antes de la entrega final.*
 
 ---
