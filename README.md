@@ -1,5 +1,19 @@
 # 🐾 VETTsafe – Sistema de Gestión Veterinaria
 
+## 📑 Índice
+
+- [📝 Descripción del Proyecto](#-descripción-del-proyecto)
+- [⚙️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+- [🚀 Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
+- [📦 Requisitos del Proyecto (`requirements.txt`)](#-requisitos-del-proyecto-requirementstxt)
+- [🎨 Diseño de Interfaz](#-diseño-de-interfaz)
+- [📅 Gestión y Planificación](#-gestión-y-planificación)
+- [📚 Metodología de Desarrollo](#-metodología-de-desarrollo)
+- [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
+- [📈 Resumen Semanal de Avances](#-resumen-semanal-de-avances)
+- [📂 Vinculación con Otras Asignaturas](#-vinculación-con-otras-asignaturas)
+- [🧩 Próximos Pasos (posdesarrollo)](#-próximos-pasos-posdesarrollo)
+
 ## 📝 Descripción del Proyecto
 
 **VETTsafe** es una aplicación desarrollada en Python para la gestión eficiente de información de mascotas y sus consultas médicas en clínicas veterinarias. Permite registrar, editar y listar datos de clientes y mascotas mediante operaciones CRUD, facilitando la organización interna y el acceso rápido a los registros.
