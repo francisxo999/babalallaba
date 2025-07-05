@@ -101,42 +101,42 @@ Se utilizó **Scrum** como marco ágil, con sprints semanales, planificación po
 ## 📈 Resumen Semanal de Avances
 
 - **Semana 1:**  
-  Se definió la idea del sistema, se creó la licencia del proyecto y se planificaron las tareas iniciales.
+  Se definió la idea general del sistema, se creó el repositorio y se eligió la licencia MIT. Además, se planificaron las primeras tareas del equipo.
 
 - **Semana 2:**  
-  Se desarrolló la estructura base en Python y el prototipo de la base de datos. También se diseñaron las primeras interfaces de usuario.
+  Se desarrolló la estructura base del proyecto en Python y se diseñó el primer prototipo de base de datos. También se crearon las interfaces de usuario iniciales en Figma.
 
 - **Semana 3:**  
-  Se mejoraron las interfaces con base en la retroalimentación recibida, reorganizando las pantallas y optimizando la experiencia del usuario.
+  Se mejoraron las interfaces gráficas a partir de la retroalimentación recibida, reorganizando pantallas y optimizando la experiencia visual.
 
 - **Semana 4:**  
-  Se revisaron los avances gráficos y se organizó el entorno de trabajo, reestructurando carpetas y archivos.
+  Se revisaron los avances gráficos y se organizó el entorno de desarrollo, reestructurando carpetas y archivos del repositorio.
 
 - **Semana 5:**  
-  Se inició la programación en Visual Studio Code, se configuraron las extensiones necesarias y se comenzó la implementación de la base de datos.
+  Se inició la programación en Visual Studio Code, configurando extensiones clave y comenzando la implementación de la lógica de la base de datos.
 
 - **Semana 6:**  
-  Se implementaron ramas en GitHub para permitir el trabajo independiente del equipo. Además, se creó un tablero en [Jira](https://vettsafe.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNjFhMWQzOTVmZDQ3NDUxYTlkZjlkMmRlMjdkMWU4ZWIiLCJwIjoiaiJ9) y una [Carta Gantt](https://docs.google.com/spreadsheets/d/1c3QkWdsqGV5yM9EpvRcGAK7bTbtyMJmF/edit?usp=sharing&ouid=117040996252373578955&rtpof=true&sd=true) para la planificación del proyecto.
+  Se crearon ramas en GitHub para permitir el trabajo colaborativo. Además, se implementó el tablero de tareas en [Jira](https://vettsafe.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNjFhMWQzOTVmZDQ3NDUxYTlkZjlkMmRlMjdkMWU4ZWIiLCJwIjoiaiJ9) y se elaboró una [Carta Gantt](https://docs.google.com/spreadsheets/d/1c3QkWdsqGV5yM9EpvRcGAK7bTbtyMJmF/edit?usp=sharing) para visualizar la planificación del proyecto.
 
 - **Semana 7:**  
-  Se organizaron y actualizaron los archivos del repositorio, incluyendo capturas y documentos relacionados con la base de datos, Jira y la Carta Gantt, con el fin de mejorar la claridad y el seguimiento del proyecto.
+  Se actualizaron los archivos del repositorio, incluyendo capturas y documentación relacionada con la base de datos, Jira y la Carta Gantt, mejorando la organización y seguimiento del proyecto.
 
 - **Semana 8:**  
-  Se avanzó en el desarrollo de la base de datos en SQL y el código en Visual Studio Code, logrando la conexión entre ambos e implementando las primeras dos entidades: CLIENTE y MASCOTA, permitiendo agregar datos de forma sencilla y efectiva.
+  Se avanzó en el desarrollo de la base de datos en SQL y el backend en Python, logrando la conexión entre ambos. Se implementaron las entidades CLIENTE y MASCOTA con operaciones CRUD funcionales.
 
 - **Semana 9:**  
-  Recibimos retroalimentación del profesor sobre los avances, tanto en el repositorio como en el tablero de Jira y el código de Python conectado con la base de datos. Nos entregó recomendaciones y destacó los aspectos positivos del trabajo realizado hasta el momento.
+  Se recibió retroalimentación del profesor sobre el avance técnico y organizacional. Se destacaron los puntos fuertes y se realizaron ajustes en el código y en el uso de Jira.
 
 - **Semana 10:**  
-  Se reorganizaron las carpetas del repositorio para mantener un orden lógico y facilitar la navegación entre semanas. Además, se agregaron nuevas tareas en el tablero de Jira, asignando responsabilidades específicas a cada integrante del equipo.
+  Se reorganizó la estructura del repositorio para mantener un orden lógico y facilitar la navegación. Se agregaron nuevas tareas en Jira, asignando roles específicos a cada integrante.
 
 - **Semana 11:**  
-  Se actualizó la Carta Gantt incluyendo nuevos sprints a partir del sprint 3. Se añadieron nuevas tareas en Jira, asignándolas a los integrantes del equipo. En el archivo README se incorporaron los enlaces a Jira y Figma en la sección de metodología de desarrollo. También se realizó una investigación sobre APIs para evaluar su posible integración en el sistema.
+  Se actualizó la Carta Gantt incorporando nuevos sprints. También se añadieron enlaces clave en el README (Figma y Jira) y se investigaron posibles integraciones con APIs externas.
 
-- **Semana 12:**
-   Se realizaron cambios importantes en la base de datos para mejorar su estructura y rendimiento, llegando a conectar en su totalidad esta. También se ajustaron elementos de la interfaz para hacerla más intuitiva. Además, se integró la API pública [Nager.Date](https://date.nager.at/) para obtener información sobre feriados, lo que permitió explorar nuevas funcionalidades en el sistema.
+- **Semana 12:**  
+  Se realizaron mejoras significativas en la base de datos, alcanzando su integración completa con el sistema. Se ajustaron elementos de la interfaz para hacerla más intuitiva y se integró la API pública [Nager.Date](https://date.nager.at/) para consultar feriados, ampliando la funcionalidad del sistema.
 
-*Actualmente nos encontramos en la fase final de desarrollo, enfocados en pruebas y mejoras antes de la entrega final.*
+*Actualmente nos encontramos en la fase final de desarrollo, enfocados en pruebas, documentación y ajustes previos a la entrega definitiva.*
 
 ---
 
