@@ -3,15 +3,6 @@
 
 ---
 
-## 📦 Requisitos Previos
-
-Antes de comenzar, asegúrate de tener lo siguiente:
-
-- ✅ [Python 3.11+](https://www.python.org/downloads/)
-- ✅ [Git](https://git-scm.com/downloads)
-
----
-
 ## 📥 Paso a paso para preparar el entorno
 
 ### 1. Copia el archivo `requirements.txt` a tu nueva PC
